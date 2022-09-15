@@ -1,0 +1,17 @@
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\Crawler.exe
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\Crawler.pdb
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\obj\Debug\Crawler.csproj.App.config
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\obj\Debug\Crawler.csproj.AssemblyReference.cache
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\obj\Debug\Crawler.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\obj\Debug\Crawler.csproj.CopyComplete
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\obj\Debug\Crawler.exe
+C:\Users\valen\OneDrive\Área de Trabalho\SistemaLinks\WebLinks\Crawler\obj\Debug\Crawler.pdb
